@@ -32,7 +32,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- 
 ###  Aktuelle Projekte
 
 * **Game Project (In Development):** Ein eigenständiges Spieleprojekt, in dem ich Gameplay-Mechaniken, Physik und Logik in C# von Grund auf aufbaue.
-* **Portfolio-Webseite:** Mein persönliches Aushängeschild im Web. Clean, modern und vollgepackt mit interaktiven Details, um meine Arbeiten zu präsentieren.
+* **Portfolio-Webseite (In Development):** Mein persönliches Aushängeschild im Web. Clean, modern und vollgepackt mit interaktiven Details, um meine Arbeiten zu präsentieren.
 
 ---
 
