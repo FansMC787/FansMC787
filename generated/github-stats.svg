@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
+  <rect width="850" height="360" rx="14" fill="#0F0C1B" stroke="#2D2654" stroke-width="1.5" />
+  <style>
+    .label { font-family: sans-serif; font-size: 14px; fill: #A5A1B8; }
+    .val { font-family: sans-serif; font-size: 24px; fill: #00F2FE; font-weight: bold; }
+    .title { font-family: sans-serif; font-size: 16px; fill: #FFFFFF; font-weight: bold; }
+  </style>
+  <g transform="translate(40, 40)">
+    <text x="0" y="10" class="title" fill="#7D52FF">// STATISTIKEN</text>
+    <g transform="translate(0, 45)"><text class="label">Gesamte Commits</text><text y="26" class="val">61</text></g>
+    <g transform="translate(180, 45)"><text class="label">Sterne erhalten</text><text y="26" class="val">1</text></g>
+    <g transform="translate(0, 125)"><text class="label">Pull Requests</text><text y="26" class="val">0</text></g>
+    <g transform="translate(180, 125)"><text class="label">Gelöste Issues</text><text y="26" class="val">0</text></g>
+    <g transform="translate(0, 205)"><text class="label">Repositories</text><text y="26" class="val">4</text></g>
+    <g transform="translate(180, 205)"><text class="label">Follower</text><text y="26" class="val">2</text></g>
+  </g>
+  <line x1="425" y1="35" x2="425" y2="325" stroke="#2D2654" stroke-dasharray="4 4" />
+  <g transform="translate(465, 40)">
+    <text x="0" y="10" class="title" fill="#00F2FE">// SPRACHVERTEILUNG</text>
+    <g transform="translate(0, 35)"><g transform="translate(0, 0)">
+          <text y="15" fill="#FFFFFF" font-family="sans-serif" font-size="13">Wolfram Language</text>
+          <rect y="22" width="300" height="8" rx="4" fill="#2D2654"/>
+          <rect y="22" width="143" height="8" rx="4" fill="#7D52FF"/>
+          <text x="310" y="30" class="label" font-size="12">47.8%</text>
+        </g><g transform="translate(0, 45)">
+          <text y="15" fill="#FFFFFF" font-family="sans-serif" font-size="13">C#</text>
+          <rect y="22" width="300" height="8" rx="4" fill="#2D2654"/>
+          <rect y="22" width="115" height="8" rx="4" fill="#00F2FE"/>
+          <text x="310" y="30" class="label" font-size="12">38.4%</text>
+        </g><g transform="translate(0, 90)">
+          <text y="15" fill="#FFFFFF" font-family="sans-serif" font-size="13">Python</text>
+          <rect y="22" width="300" height="8" rx="4" fill="#2D2654"/>
+          <rect y="22" width="41" height="8" rx="4" fill="#7D52FF"/>
+          <text x="310" y="30" class="label" font-size="12">13.7%</text>
+        </g><g transform="translate(0, 135)">
+          <text y="15" fill="#FFFFFF" font-family="sans-serif" font-size="13">HTML</text>
+          <rect y="22" width="300" height="8" rx="4" fill="#2D2654"/>
+          <rect y="22" width="0" height="8" rx="4" fill="#00F2FE"/>
+          <text x="310" y="30" class="label" font-size="12">0.1%</text>
+        </g></g></g></svg>
