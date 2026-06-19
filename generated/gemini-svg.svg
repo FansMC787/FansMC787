@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F0C1B" />
+      <stop offset="100%" stop-color="#1A1530" />
+    </linearGradient>
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7D52FF" />
+      <stop offset="50%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#7D52FF" />
+    </linearGradient>
+    <!-- Accent Line Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7D52FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base Style Stylesheet -->
+  <style>
+    .title-main { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-weight: 900; font-size: 52px; fill: #FFFFFF; letter-spacing: 3px; }
+    .title-sub { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-weight: 600; font-size: 20px; fill: #00F2FE; letter-spacing: 1px; }
+    .desc-text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-weight: 400; font-size: 15px; fill: #A5A1B8; }
+    .badge-rect { fill: #1D183A; stroke: #7D52FF; stroke-width: 1; rx: 6px; }
+    .badge-text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #FFFFFF; }
+    .terminal-header { fill: #16122C; stroke: #2D2654; stroke-width: 1; }
+    .terminal-body { fill: #0B0914; stroke: #2D2654; stroke-width: 1; }
+    .terminal-text { font-family: 'Consolas', 'Courier New', monospace; font-size: 13px; fill: #A5A1B8; }
+    .terminal-cmd { fill: #00F2FE; font-weight: bold; }
+    .grid-line { stroke: #251F47; stroke-width: 0.5; opacity: 0.3; }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="1100" height="320" rx="16" fill="url(#bgGrad)" />
+  <rect x="1" y="1" width="1098" height="318" rx="15" fill="none" stroke="url(#borderGrad)" stroke-width="2" />
+
+  <!-- Gaming Perspective Grid Lines (Subtle) -->
+  <g>
+    <line x1="0" y1="280" x2="1100" y2="280" class="grid-line" />
+    <line x1="0" y1="300" x2="1100" y2="300" class="grid-line" />
+    <line x1="100" y1="260" x2="0" y2="320" class="grid-line" />
+    <line x1="300" y1="260" x2="200" y2="320" class="grid-line" />
+    <line x1="500" y1="260" x2="450" y2="320" class="grid-line" />
+    <line x1="700" y1="260" x2="700" y2="320" class="grid-line" />
+    <line x1="900" y1="260" x2="950" y2="320" class="grid-line" />
+  </g>
+
+  <!-- Left Main Content Block -->
+  <g transform="translate(60, 60)">
+    <!-- Status Indicator / Dot -->
+    <circle cx="15" cy="-12" r="6" fill="#00F2FE" />
+    <circle cx="15" cy="-12" r="12" fill="none" stroke="#00F2FE" stroke-width="1.5" opacity="0.5" />
+    <text x="35" y="-7" class="title-sub">LAUNCHER ACTIVE // PROFILE</text>
+    
+    <!-- Username -->
+    <text x="12" y="55" class="title-main">FansMC787</text>
+    
+    <!-- Real Name & Role -->
+    <text x="15" y="90" class="desc-text" font-weight="600" fill="#FFFFFF">Daniel Thavarajan</text>
+    <text x="15" y="112" class="desc-text">Software &amp; Gaming Entwickler</text>
+    
+    <!-- Decorative Tech Bar -->
+    <rect x="15" y="135" width="400" height="4" rx="2" fill="url(#accentGrad)" />
+
+    <!-- Badges / Tech-Stack Tags -->
+    <g transform="translate(15, 160)">
+      <!-- Badge 1: C# -->
+      <g transform="translate(0, 0)">
+        <rect width="65" height="28" class="badge-rect" stroke="#7D52FF" />
+        <text x="32.5" y="18" text-anchor="middle" class="badge-text">C#</text>
+      </g>
+      <!-- Badge 2: HTML/CSS -->
+      <g transform="translate(75, 0)">
+        <rect width="115" height="28" class="badge-rect" stroke="#00F2FE" />
+        <text x="57.5" y="18" text-anchor="middle" class="badge-text">HTML &amp; CSS</text>
+      </g>
+      <!-- Badge 3: JavaScript -->
+      <g transform="translate(200, 0)">
+        <rect width="105" height="28" class="badge-rect" stroke="#7D52FF" />
+        <text x="52.5" y="18" text-anchor="middle" class="badge-text">JavaScript</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right Decorative Terminal Window (Gaming/Dev Style) -->
+  <g transform="translate(620, 45)">
+    <!-- Terminal Window Frame -->
+    <rect width="420" height="210" rx="8" class="terminal-body" />
+    <rect width="420" height="32" rx="8" class="terminal-header" />
+    <!-- Window Controls -->
+    <circle cx="20" cy="16" r="6" fill="#FF5F56" />
+    <circle cx="40" cy="16" r="6" fill="#FFBD2E" />
+    <circle cx="60" cy="16" r="6" fill="#27C93F" />
+    <text x="210" y="21" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#5F5A7D">core-engine.sys</text>
+
+    <!-- Terminal Lines Content -->
+    <g transform="translate(25, 65)">
+      <text x="0" y="0" class="terminal-text"><tspan class="terminal-cmd">fansmc787@hub:~$</tspan> initialize --project game</text>
+      <text x="0" y="22" class="terminal-text" fill="#27C93F">> Loading C# game modules... OK</text>
+      <text x="0" y="44" class="terminal-text" fill="#27C93F">> Binding UI system (HTML5/CSS3)... OK</text>
+      
+      <text x="0" y="75" class="terminal-text"><tspan class="terminal-cmd">fansmc787@hub:~$</tspan> status --portfolio</text>
+      <text x="0" y="97" class="terminal-text">Status: Building beautiful interfaces</text>
+      <text x="0" y="119" class="terminal-text">Location: Switzerland 🇨🇭</text>
+      
+      <!-- Blinking Cursor Simulation -->
+      <text x="0" y="142" class="terminal-text"><tspan class="terminal-cmd">fansmc787@hub:~$</tspan> run _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+    </g>
+  </g>
+</svg>
