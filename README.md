@@ -4,13 +4,13 @@
 
 <br>
 
-## Hoi! Ich bin Daniel Thavarajan 👋
+## Hoi! Ich bin Daniel Thavarajan 
 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- und Gaming-Entwickler** aus der Schweiz. Ich liebe es, interaktive Welten zu erschaffen, performanten Code zu schreiben und moderne Web-Interfaces zu designen. Inspiriert von packenden Gaming-UIs verbinde ich Kreativität mit sauberem Code.
 
 ---
 
-### 🛠️ Technologien & Skills
+###  Technologien & Skills
 
 <table width="100%">
   <tr>
@@ -29,14 +29,14 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- 
 
 ---
 
-### 🎮 Aktuelle Projekte
+###  Aktuelle Projekte
 
 * **Game Project (In Development):** Ein eigenständiges Spieleprojekt, in dem ich Gameplay-Mechaniken, Physik und Logik in C# von Grund auf aufbaue.
 * **Portfolio-Webseite:** Mein persönliches Aushängeschild im Web. Clean, modern und vollgepackt mit interaktiven Details, um meine Arbeiten zu präsentieren.
 
 ---
 
-### 📊 Meine GitHub-Statistiken
+###  Meine GitHub-Statistiken
 
 <div align="center">
   <img src="generated/github-stats.svg" alt="FansMC787 GitHub Stats" width="100%" max-width="850px">
@@ -44,7 +44,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- 
 
 ---
 
-### 📬 Kontakt aufnehmen
+###  Kontakt aufnehmen
 
 Falls du Fragen zu meinen Projekten hast oder einfach nur über Gaming und Software-Entwicklung quatschen möchtest, erreichst du mich hier:
 
