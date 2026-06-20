@@ -7,7 +7,7 @@
   </style>
   <g transform="translate(40, 40)">
     <text x="0" y="10" class="title" fill="#7D52FF">// STATISTIKEN</text>
-    <g transform="translate(0, 45)"><text class="label">Gesamte Commits</text><text y="26" class="val">61</text></g>
+    <g transform="translate(0, 45)"><text class="label">Gesamte Commits</text><text y="26" class="val">63</text></g>
     <g transform="translate(180, 45)"><text class="label">Sterne erhalten</text><text y="26" class="val">1</text></g>
     <g transform="translate(0, 125)"><text class="label">Pull Requests</text><text y="26" class="val">0</text></g>
     <g transform="translate(180, 125)"><text class="label">Gelöste Issues</text><text y="26" class="val">0</text></g>
