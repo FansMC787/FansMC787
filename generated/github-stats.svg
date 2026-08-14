@@ -12,7 +12,7 @@
     <g transform="translate(0, 125)"><text class="label">Pull Requests</text><text y="26" class="val">0</text></g>
     <g transform="translate(180, 125)"><text class="label">Gelöste Issues</text><text y="26" class="val">0</text></g>
     <g transform="translate(0, 205)"><text class="label">Repositories</text><text y="26" class="val">4</text></g>
-    <g transform="translate(180, 205)"><text class="label">Follower</text><text y="26" class="val">2</text></g>
+    <g transform="translate(180, 205)"><text class="label">Follower</text><text y="26" class="val">3</text></g>
   </g>
   <line x1="425" y1="35" x2="425" y2="325" stroke="#2D2654" stroke-dasharray="4 4" />
   <g transform="translate(465, 40)">
