@@ -48,8 +48,8 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- 
 
 Falls du Fragen zu meinen Projekten hast oder einfach nur über Gaming und Software-Entwicklung quatschen möchtest, erreichst du mich hier:
 
-* 📧 **E-Mail:** daniel.thavarajan@gmail.com
-* 📞 **Telefon:** +41 77 964 48 90
+* 📧 **E-Mail:** daniel.thava@hotmail.com
+
 
 ---
 
