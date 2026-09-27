@@ -42,7 +42,7 @@
     <circle cx="15" cy="-12" r="12" fill="none" stroke="#00F2FE" stroke-width="1.5" opacity="0.5" />
     <text x="35" y="-7" class="title-sub">LAUNCHER ACTIVE // PROFILE</text>
     <text x="12" y="55" class="title-main">FansMC787</text>
-    <text x="15" y="90" class="desc-text" font-weight="600" fill="#FFFFFF">Daniel Thavarajan</text>
+    <text x="15" y="90" class="desc-text" font-weight="600" fill="#FFFFFF">FansMC</text>
     <text x="15" y="112" class="desc-text">Software &amp; Gaming Entwickler</text>
     <rect x="15" y="135" width="400" height="4" rx="2" fill="url(#accentGrad)" />
     <g transform="translate(15, 160)">
