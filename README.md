@@ -4,7 +4,7 @@
 
 <br>
 
-## Hoi! Ich bin Daniel Thavarajan 
+## Hoi! Ich bin FansMC
 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- und Gaming-Entwickler** aus der Schweiz. Ich liebe es, interaktive Welten zu erschaffen, performanten Code zu schreiben und moderne Web-Interfaces zu designen. Inspiriert von packenden Gaming-UIs verbinde ich Kreativität mit sauberem Code.
 
