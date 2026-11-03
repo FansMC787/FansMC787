@@ -4,7 +4,7 @@
 
 <br>
 
-## Hoi! Ich bin FansMC
+## Hoi! Ich bin Daniel Thavarajan
 
 Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- und Gaming-Entwickler** aus der Schweiz. Ich liebe es, interaktive Welten zu erschaffen, performanten Code zu schreiben und moderne Web-Interfaces zu designen. Inspiriert von packenden Gaming-UIs verbinde ich Kreativität mit sauberem Code.
 
@@ -48,7 +48,8 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher **Software- 
 
 Falls du Fragen zu meinen Projekten hast oder einfach nur über Gaming und Software-Entwicklung quatschen möchtest, erreichst du mich hier:
 
-* 📧 **E-Mail:** daniel.thava@hotmail.com
+* 📧 **E-Mail:** daniel.thavarajan@hotmail.com
+* 📞 **Nummer:** 077 964 48 90
 
 
 ---
